@@ -171,9 +171,7 @@ python app.py
 Visit:
 👉 http://127.0.0.1:5000/
 
-👤 Your Contribution (Very Important for Interviews)
 
-You can keep this section exactly like this:
 
 My Role in This Project:
 
